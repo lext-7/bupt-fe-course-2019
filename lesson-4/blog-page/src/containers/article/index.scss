@@ -1,0 +1,11 @@
+.article {
+  &-container {
+    width: 1000px;
+    margin: 40px auto;
+
+    > * {
+      margin: 20px 0;
+      line-height: 36px;
+    }
+  }
+}

@@ -1,0 +1,7 @@
+port: 8081
+db:
+  port: 3306
+  user: "root"
+  pwd: "123456"
+  host: "localhost"
+  name: "test"

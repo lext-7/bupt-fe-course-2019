@@ -1,0 +1,30 @@
+.title {
+  &-container {
+    max-width: 50%;
+    margin: 60px auto
+  }
+
+  &-divider {
+    &::before,
+    &::after {
+      border-top: 1px solid #2e5db9 !important;
+    }
+  }
+
+  &-content {
+    display: flex;
+    align-items: center;
+    color: #2e5db9;
+  }
+
+  &-text {
+    letter-spacing: 0.8em;
+    margin: 0 17px;
+    font-size: 28px;
+    line-height: 42px;
+  }
+
+  &-icon {
+    font-size: 23px;
+  }
+}

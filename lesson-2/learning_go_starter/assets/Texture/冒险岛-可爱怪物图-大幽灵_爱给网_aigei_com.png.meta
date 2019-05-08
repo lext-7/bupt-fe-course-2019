@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a05ba1dc-e40e-4caa-a844-9c09ecc04262",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "冒险岛-可爱怪物图-大幽灵_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "62bfe9a4-bcf1-40eb-8a5d-125f93f204d8",
+      "rawTextureUuid": "a05ba1dc-e40e-4caa-a844-9c09ecc04262",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 71,
+      "height": 64,
+      "rawWidth": 71,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

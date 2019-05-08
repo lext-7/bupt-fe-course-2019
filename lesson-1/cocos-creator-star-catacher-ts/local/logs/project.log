@@ -1,0 +1,129 @@
+2019-03-18T08:28:32.503Z - normal: Load ~/.CocosCreator/settings.json
+2019-03-18T08:28:32.552Z - normal: Initializing Asset Database
+2019-03-18T08:28:32.553Z - normal: checking language setting...
+2019-03-18T08:28:32.553Z - normal: Language: zh
+2019-03-18T08:28:33.038Z - success: preview server running at http://localhost:7456
+2019-03-18T08:28:33.093Z - success: protocol editor-framework registered
+2019-03-18T08:28:33.094Z - success: protocol app registered
+2019-03-18T08:28:33.094Z - success: protocol theme registered
+2019-03-18T08:28:33.094Z - success: protocol packages registered
+2019-03-18T08:28:33.094Z - success: protocol uuid registerred
+2019-03-18T08:28:33.094Z - success: protocol db registerred
+2019-03-18T08:28:33.094Z - success: protocol thumbnail registerred
+2019-03-18T08:28:33.094Z - success: protocol unpack registerred
+2019-03-18T08:28:33.094Z - success: protocol disable-commonjs registerred
+2019-03-18T08:28:33.433Z - normal: connected!
+2019-03-18T08:28:33.434Z - normal: Check project /Users/liaozhijie/workspace/course/bupt-fe-course-2019/lesson-1/cocos-creator-star-catacher-ts
+2019-03-18T08:28:33.436Z - normal: Initializing project /Users/liaozhijie/workspace/course/bupt-fe-course-2019/lesson-1/cocos-creator-star-catacher-ts
+2019-03-18T08:28:33.810Z - normal: Initializing Cocos2d
+2019-03-18T08:28:34.428Z - normal: Initializing engine extends
+2019-03-18T08:28:34.478Z - success: asset-db-debugger loaded
+2019-03-18T08:28:34.486Z - success: baidu-adapter loaded
+2019-03-18T08:28:34.488Z - success: color-picker loaded
+2019-03-18T08:28:34.584Z - success: fb-audience-network loaded
+2019-03-18T08:28:34.628Z - success: fb-live-stream loaded
+2019-03-18T08:28:34.632Z - success: google-play-instant loaded
+2019-03-18T08:28:34.637Z - success: huawei-runtime loaded
+2019-03-18T08:28:34.638Z - success: jsb-adapter loaded
+2019-03-18T08:28:34.642Z - success: oppo-runtime loaded
+2019-03-18T08:28:34.658Z - success: package-manager loaded
+2019-03-18T08:28:34.753Z - success: qqplay-adapter loaded
+2019-03-18T08:28:34.755Z - success: runtime-dev-tools loaded
+2019-03-18T08:28:34.769Z - success: sdkbox loaded
+2019-03-18T08:28:34.780Z - success: tester loaded
+2019-03-18T08:28:34.792Z - success: ui-grid loaded
+2019-03-18T08:28:34.802Z - success: ui-kit-preview-extra loaded
+2019-03-18T08:28:34.812Z - success: ui-kit-preview loaded
+2019-03-18T08:28:34.823Z - success: ui-kit loaded
+2019-03-18T08:28:34.834Z - success: ui-tree loaded
+2019-03-18T08:28:34.837Z - success: vivo-runtime loaded
+2019-03-18T08:28:34.837Z - success: weapp-adapter loaded
+2019-03-18T08:28:34.880Z - success: assets loaded
+2019-03-18T08:28:34.892Z - success: builder loaded
+2019-03-18T08:28:35.155Z - success: cocos-services loaded
+2019-03-18T08:28:35.169Z - success: console loaded
+2019-03-18T08:28:35.196Z - success: fb-instant-games loaded
+2019-03-18T08:28:35.198Z - success: google-instant-games loaded
+2019-03-18T08:28:35.214Z - success: hierarchy loaded
+2019-03-18T08:28:35.229Z - success: inspector loaded
+2019-03-18T08:28:35.230Z - success: keystore loaded
+2019-03-18T08:28:35.244Z - success: node-library loaded
+2019-03-18T08:28:35.245Z - success: package-asset loaded
+2019-03-18T08:28:35.246Z - success: preferences loaded
+2019-03-18T08:28:35.257Z - success: project-exporter loaded
+2019-03-18T08:28:35.271Z - success: project-importer loaded
+2019-03-18T08:28:35.286Z - success: project-settings loaded
+2019-03-18T08:28:35.327Z - success: scene loaded
+2019-03-18T08:28:35.328Z - success: simulator-debugger loaded
+2019-03-18T08:28:35.328Z - success: sprite-editor loaded
+2019-03-18T08:28:35.343Z - success: store loaded
+2019-03-18T08:28:35.356Z - success: timeline loaded
+2019-03-18T08:28:36.805Z - info: Cocos Services load base data!
+2019-03-18T08:28:36.917Z - normal: Loading packages
+2019-03-18T08:28:36.920Z - normal: Watching packages
+2019-03-18T08:28:37.037Z - normal: Run Application
+2019-03-18T08:28:41.805Z - warn: Please change the definition of property 'scoreAudio' in class 'Game'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    scoreAudio: cc.Texture2D,
+If you use JS, it should be changed to:
+    scoreAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+If you use TS, it should be changed to:
+    %s: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+    }
+    %s: cc.Texture2D = null;
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-03-18T08:28:41.808Z - warn: Please change the definition of property 'jumpAudio' in class 'Player'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    jumpAudio: cc.Texture2D,
+If you use JS, it should be changed to:
+    jumpAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+If you use TS, it should be changed to:
+    %s: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+    }
+    %s: cc.Texture2D = null;
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-03-18T08:32:37.436Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:3609
+2019-03-18T08:36:49.196Z - warn: Please change the definition of property 'scoreAudio' in class 'Game'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    scoreAudio: cc.Texture2D,
+If you use JS, it should be changed to:
+    scoreAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+If you use TS, it should be changed to:
+    %s: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+    }
+    %s: cc.Texture2D = null;
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-03-18T08:36:49.200Z - warn: Please change the definition of property 'jumpAudio' in class 'Player'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    jumpAudio: cc.Texture2D,
+If you use JS, it should be changed to:
+    jumpAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+If you use TS, it should be changed to:
+    %s: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+    }
+    %s: cc.Texture2D = null;
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )

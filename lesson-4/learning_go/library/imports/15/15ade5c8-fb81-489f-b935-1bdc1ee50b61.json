@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "下载",
+    "texture": "141b0f0b-23a0-4f05-b3e7-ecc05b663dd6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      448,
+      336
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      448,
+      336
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

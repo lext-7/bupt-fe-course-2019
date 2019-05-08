@@ -1,0 +1,256 @@
+2019-04-10T10:26:01.880Z - normal: Load ~/.CocosCreator/settings.json
+2019-04-10T10:26:01.939Z - normal: Initializing Asset Database
+2019-04-10T10:26:01.942Z - normal: checking language setting...
+2019-04-10T10:26:01.942Z - normal: Language: zh
+2019-04-10T10:26:02.775Z - success: preview server running at http://localhost:7456
+2019-04-10T10:26:02.830Z - success: protocol editor-framework registered
+2019-04-10T10:26:02.831Z - success: protocol app registered
+2019-04-10T10:26:02.831Z - success: protocol theme registered
+2019-04-10T10:26:02.831Z - success: protocol packages registered
+2019-04-10T10:26:02.831Z - success: protocol uuid registerred
+2019-04-10T10:26:02.831Z - success: protocol db registerred
+2019-04-10T10:26:02.831Z - success: protocol thumbnail registerred
+2019-04-10T10:26:02.831Z - success: protocol unpack registerred
+2019-04-10T10:26:02.831Z - success: protocol disable-commonjs registerred
+2019-04-10T10:26:02.915Z - normal: connected!
+2019-04-10T10:26:02.917Z - normal: Check project /Users/haoxubin/Cocos/bupt-fe-course-2019/lesson-4/learning_go
+2019-04-10T10:26:02.919Z - normal: Initializing project /Users/haoxubin/Cocos/bupt-fe-course-2019/lesson-4/learning_go
+2019-04-10T10:26:03.345Z - normal: Initializing Cocos2d
+2019-04-10T10:26:04.058Z - normal: Initializing engine extends
+2019-04-10T10:26:04.199Z - success: asset-db-debugger loaded
+2019-04-10T10:26:04.203Z - success: baidu-adapter loaded
+2019-04-10T10:26:04.205Z - success: color-picker loaded
+2019-04-10T10:26:04.306Z - success: fb-audience-network loaded
+2019-04-10T10:26:04.369Z - success: fb-live-stream loaded
+2019-04-10T10:26:04.385Z - success: google-play-instant loaded
+2019-04-10T10:26:04.404Z - success: huawei-runtime loaded
+2019-04-10T10:26:04.406Z - success: jsb-adapter loaded
+2019-04-10T10:26:04.410Z - success: oppo-runtime loaded
+2019-04-10T10:26:04.438Z - success: package-manager loaded
+2019-04-10T10:26:04.595Z - success: qqplay-adapter loaded
+2019-04-10T10:26:04.598Z - success: runtime-dev-tools loaded
+2019-04-10T10:26:04.631Z - success: sdkbox loaded
+2019-04-10T10:26:04.677Z - success: tester loaded
+2019-04-10T10:26:04.737Z - success: ui-grid loaded
+2019-04-10T10:26:04.763Z - success: ui-kit-preview-extra loaded
+2019-04-10T10:26:04.811Z - success: ui-kit-preview loaded
+2019-04-10T10:26:04.860Z - success: ui-kit loaded
+2019-04-10T10:26:04.898Z - success: ui-tree loaded
+2019-04-10T10:26:04.903Z - success: vivo-runtime loaded
+2019-04-10T10:26:04.905Z - success: weapp-adapter loaded
+2019-04-10T10:26:04.957Z - success: assets loaded
+2019-04-10T10:26:04.981Z - success: builder loaded
+2019-04-10T10:26:05.332Z - success: cocos-services loaded
+2019-04-10T10:26:05.355Z - success: console loaded
+2019-04-10T10:26:05.385Z - success: fb-instant-games loaded
+2019-04-10T10:26:05.388Z - success: google-instant-games loaded
+2019-04-10T10:26:05.415Z - success: hierarchy loaded
+2019-04-10T10:26:05.438Z - success: inspector loaded
+2019-04-10T10:26:05.439Z - success: keystore loaded
+2019-04-10T10:26:05.506Z - success: node-library loaded
+2019-04-10T10:26:05.507Z - success: package-asset loaded
+2019-04-10T10:26:05.508Z - success: preferences loaded
+2019-04-10T10:26:05.533Z - success: project-exporter loaded
+2019-04-10T10:26:05.555Z - success: project-importer loaded
+2019-04-10T10:26:05.584Z - success: project-settings loaded
+2019-04-10T10:26:05.611Z - success: scene loaded
+2019-04-10T10:26:05.613Z - success: simulator-debugger loaded
+2019-04-10T10:26:05.615Z - success: sprite-editor loaded
+2019-04-10T10:26:05.638Z - success: store loaded
+2019-04-10T10:26:05.664Z - success: timeline loaded
+2019-04-10T10:26:06.673Z - normal: Loading packages
+2019-04-10T10:26:06.677Z - normal: Watching packages
+2019-04-10T10:26:06.759Z - info: Cocos Services load base data!
+2019-04-10T10:26:06.770Z - normal: Run Application
+2019-04-10T10:26:13.043Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T10:26:13.044Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T10:28:10.923Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T10:28:10.925Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T10:30:31.174Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T10:30:31.176Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T10:31:55.746Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T10:31:55.747Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T10:32:58.540Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T10:32:58.540Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T10:33:21.141Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T10:33:21.141Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T10:36:44.473Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T10:36:44.474Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T10:37:19.932Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T10:37:19.933Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T10:37:37.854Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T10:37:37.855Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T11:32:55.430Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T11:32:55.432Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T11:33:16.320Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T11:33:16.321Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab
+2019-04-10T11:48:28.161Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 boardPrefab
+2019-04-10T11:48:28.163Z - warn: Please specifiy a default value for "BgMove" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 blankPrefab

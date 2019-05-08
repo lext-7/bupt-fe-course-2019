@@ -1,0 +1,56 @@
+.banner {
+  &-container {
+    position: relative;
+  }
+
+  &-background {
+    // 设置背景图片
+    background-image: url('//sf1-ttcdn-tos.pstatp.com/obj/ttfe/pgcfe/technology-banner-sm.jpg');
+    background-size: cover;
+    background-position: center center;
+    // 设置大小
+    height: 40vw;
+    width: 100%;
+  }
+
+  &-content {
+    position: absolute;
+    color: #fff;
+
+    // 距离左侧 15%，高度是父元素的 60%，垂直方向居中
+    height: 60%;
+    top: 50%;
+    left: 15%;
+    transform: translate3d(0, -50%, 0);
+
+    // 内容垂直方向布局，有空白区域填充每个子元素之间的间隔
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  &-block {
+    // 垂直水平居中
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    font-size: 30px;
+
+    &-icon {
+      font-size: 40px;
+      margin-right: 8px;
+    }
+
+    &-text {
+      display: inline-block;
+      font-size: 14px;
+    }
+
+    &-number {
+      font-size: 22px;
+      margin-bottom: 4px;
+      display: block;
+    }
+  }
+}

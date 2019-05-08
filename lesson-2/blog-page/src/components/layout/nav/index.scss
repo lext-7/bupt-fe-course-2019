@@ -1,0 +1,27 @@
+.nav {
+  &-container {
+    min-width: 1200px;
+    border-bottom: 1px solid #e8e8e8;
+    background-color: #fff;
+  }
+
+  &-header {
+    display: flex;
+    width: 1140px;
+    margin: 0 auto;
+    height: 48px;
+  }
+
+  &-left {
+    flex-basis: 113px;
+    margin: 0 20px;
+    padding: 8px 0;
+  }
+
+  &-logo {
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

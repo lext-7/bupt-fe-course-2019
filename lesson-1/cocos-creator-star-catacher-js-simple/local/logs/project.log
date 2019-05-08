@@ -1,0 +1,82 @@
+2019-03-14T01:53:43.313Z - normal: Load ~/.CocosCreator/settings.json
+2019-03-14T01:53:43.379Z - normal: Initializing Asset Database
+2019-03-14T01:53:43.381Z - normal: checking language setting...
+2019-03-14T01:53:43.381Z - normal: Language: zh
+2019-03-14T01:53:44.192Z - success: preview server running at http://localhost:7456
+2019-03-14T01:53:44.228Z - success: protocol editor-framework registered
+2019-03-14T01:53:44.229Z - success: protocol app registered
+2019-03-14T01:53:44.229Z - success: protocol theme registered
+2019-03-14T01:53:44.229Z - success: protocol packages registered
+2019-03-14T01:53:44.229Z - success: protocol uuid registerred
+2019-03-14T01:53:44.229Z - success: protocol db registerred
+2019-03-14T01:53:44.229Z - success: protocol thumbnail registerred
+2019-03-14T01:53:44.229Z - success: protocol unpack registerred
+2019-03-14T01:53:44.230Z - success: protocol disable-commonjs registerred
+2019-03-14T01:53:44.403Z - normal: connected!
+2019-03-14T01:53:44.404Z - normal: Check project /Users/haoxubin/Cocos/complete_project
+2019-03-14T01:53:44.405Z - normal: Initializing project /Users/haoxubin/Cocos/complete_project
+2019-03-14T01:53:44.829Z - normal: Initializing Cocos2d
+2019-03-14T01:53:45.537Z - normal: Initializing engine extends
+2019-03-14T01:53:45.587Z - success: asset-db-debugger loaded
+2019-03-14T01:53:45.592Z - success: baidu-adapter loaded
+2019-03-14T01:53:45.595Z - success: color-picker loaded
+2019-03-14T01:53:45.706Z - success: fb-audience-network loaded
+2019-03-14T01:53:45.782Z - success: fb-live-stream loaded
+2019-03-14T01:53:45.785Z - success: google-play-instant loaded
+2019-03-14T01:53:45.790Z - success: huawei-runtime loaded
+2019-03-14T01:53:45.791Z - success: jsb-adapter loaded
+2019-03-14T01:53:45.795Z - success: oppo-runtime loaded
+2019-03-14T01:53:45.804Z - success: package-manager loaded
+2019-03-14T01:53:45.982Z - success: qqplay-adapter loaded
+2019-03-14T01:53:45.985Z - success: runtime-dev-tools loaded
+2019-03-14T01:53:45.995Z - success: sdkbox loaded
+2019-03-14T01:53:46.006Z - success: tester loaded
+2019-03-14T01:53:46.015Z - success: ui-grid loaded
+2019-03-14T01:53:46.024Z - success: ui-kit-preview-extra loaded
+2019-03-14T01:53:46.033Z - success: ui-kit-preview loaded
+2019-03-14T01:53:46.042Z - success: ui-kit loaded
+2019-03-14T01:53:46.050Z - success: ui-tree loaded
+2019-03-14T01:53:46.055Z - success: vivo-runtime loaded
+2019-03-14T01:53:46.056Z - success: weapp-adapter loaded
+2019-03-14T01:53:46.094Z - success: assets loaded
+2019-03-14T01:53:46.103Z - success: builder loaded
+2019-03-14T01:53:46.435Z - success: cocos-services loaded
+2019-03-14T01:53:46.444Z - success: console loaded
+2019-03-14T01:53:46.470Z - success: fb-instant-games loaded
+2019-03-14T01:53:46.474Z - success: google-instant-games loaded
+2019-03-14T01:53:46.485Z - success: hierarchy loaded
+2019-03-14T01:53:46.496Z - success: inspector loaded
+2019-03-14T01:53:46.497Z - success: keystore loaded
+2019-03-14T01:53:46.508Z - success: node-library loaded
+2019-03-14T01:53:46.509Z - success: package-asset loaded
+2019-03-14T01:53:46.511Z - success: preferences loaded
+2019-03-14T01:53:46.521Z - success: project-exporter loaded
+2019-03-14T01:53:46.529Z - success: project-importer loaded
+2019-03-14T01:53:46.538Z - success: project-settings loaded
+2019-03-14T01:53:46.547Z - success: scene loaded
+2019-03-14T01:53:46.549Z - success: simulator-debugger loaded
+2019-03-14T01:53:46.551Z - success: sprite-editor loaded
+2019-03-14T01:53:46.583Z - success: store loaded
+2019-03-14T01:53:46.592Z - success: timeline loaded
+2019-03-14T01:53:47.458Z - normal: Loading packages
+2019-03-14T01:53:47.466Z - normal: Watching packages
+2019-03-14T01:53:47.548Z - normal: Run Application
+2019-03-14T01:53:48.126Z - info: Cocos Services load base data!
+2019-03-14T01:53:52.637Z - warn: Script attached to "Canvas" in scene "game.fire" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/game.fire"
+Script UUID: "4e12f2d2-42ed-4bf8-a57a-426c4389abd4"
+Class ID: "4e12fLSQu1L+KV6QmxDiavU"
+
+2019-03-14T01:53:52.652Z - warn: Script attached to "star" in prefab "Star.prefab" is missing or invalid. Detailed information:
+Node path: "star"
+Asset url: "db://assets/Star.prefab"
+Script UUID: "4644fd26-d96b-4005-8472-fa99fa74e686"
+Class ID: "4644f0m2WtABYRy+pn6dOaG"
+
+2019-03-14T01:54:40.153Z - warn: Script attached to "star" in prefab "Star.prefab" is missing or invalid. Detailed information:
+Node path: "star"
+Asset url: "db://assets/Star.prefab"
+Script UUID: "4644fd26-d96b-4005-8472-fa99fa74e686"
+Class ID: "4644f0m2WtABYRy+pn6dOaG"
+

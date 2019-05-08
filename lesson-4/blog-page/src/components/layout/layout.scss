@@ -1,0 +1,11 @@
+html, body, #root, .layout-container {
+    height: 100%;
+}
+
+.layout-container {
+    padding-bottom: 100px;
+    width: 100%;
+    position: relative;
+    background-color: #f8fafc;
+    overflow: scroll;
+}
