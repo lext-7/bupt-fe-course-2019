@@ -1,0 +1,33 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.why_cat_fly",
+  "privateKey": "",
+  "renderMode": "2",
+  "startScene": "a4e57814-8403-47d7-9304-57bf5f413961",
+  "title": "why_cat_fly",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "xxxxxx",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "36cf33cd-31a6-40",
+  "zipCompressJs": true
+}
