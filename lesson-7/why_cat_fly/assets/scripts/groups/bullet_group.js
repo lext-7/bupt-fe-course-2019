@@ -21,7 +21,7 @@ const infiniteBullet = cc.Class({
     properties: {
         name: '',
         rate: 0,
-        poolAmount: 0,
+        poolSize: 0,
         prefab: cc.Prefab,
         position: {
             default: [],

@@ -52,13 +52,13 @@ const initPoolNode = (opts = {}) => {
     let defaultOpt = {
         name: 'cocosPool',
         prefab: null,
-        size: 6
+        poolSize: 6
     }
     opts = Object.assign({}, defaultOpt, opts)
     if (!opts.prefab) {
         return false
     }
-    for (let i = 0; i < opts.size; i++) {
+    for (let i = 0; i < opts.poolSize; i++) {
         let node = cc.instantiate(opts.prefab)
         put(opts.name, node)
     }

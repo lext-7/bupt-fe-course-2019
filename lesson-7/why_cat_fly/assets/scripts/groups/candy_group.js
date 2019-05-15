@@ -16,7 +16,7 @@ const Candy = cc.Class({
     properties: {
         name: '',
         prefab: cc.Prefab,
-        poolAmount: 0,
+        poolSize: 0,
         range: {
             default: [],
             type: ScoreRange,

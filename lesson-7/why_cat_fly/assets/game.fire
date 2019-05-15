@@ -637,7 +637,7 @@
     "__type__": "infiniteBullet",
     "name": "infiniteBullet",
     "rate": 0.1,
-    "poolAmount": 10,
+    "poolSize": 10,
     "prefab": {
       "__uuid__": "86eb39ab-6d84-4963-8edd-51ebde14cc87"
     },
@@ -656,7 +656,7 @@
     "__type__": "finiteBullet",
     "name": "finiteBullet",
     "rate": 0.05,
-    "poolAmount": 20,
+    "poolSize": 20,
     "prefab": {
       "__uuid__": "21af2b0d-869f-4368-a16d-c9be009fbcd3"
     },
@@ -813,7 +813,7 @@
     "prefab": {
       "__uuid__": "1fa14053-5eec-4e14-ba4a-104b756dc5c7"
     },
-    "poolAmount": 12,
+    "poolSize": 12,
     "range": [
       {
         "__id__": 26
@@ -847,7 +847,7 @@
     "prefab": {
       "__uuid__": "58ab059f-0f4d-47f9-84bb-f9461bacb6c9"
     },
-    "poolAmount": 16,
+    "poolSize": 16,
     "range": [
       {
         "__id__": 30
@@ -889,7 +889,7 @@
     "prefab": {
       "__uuid__": "83da123f-259a-4ba4-a6fe-523dc523cd98"
     },
-    "poolAmount": 16,
+    "poolSize": 16,
     "range": [
       {
         "__id__": 35
